@@ -1,0 +1,16 @@
+{
+	"mVersionDependency": {
+		"UI5.sap/ui/layout.sap_belize_plus": "1.62.1",
+		"UI5.sap/ui/layout": "1.62.1",
+		"UI5": "1.62.0"
+	},
+	"sEntity": "Theme",
+	"sId": "ui5belizewater--Contrast",
+	"sVendor": "OpenUI5",
+	"oExtends": "UI5.sap/ui/layout.sap_belize_plus",
+	"aBundled": [
+		"ui5belizewater"
+	],
+	"sType": "ABSTRACT",
+	"sThemability": "PRIVATE"
+}

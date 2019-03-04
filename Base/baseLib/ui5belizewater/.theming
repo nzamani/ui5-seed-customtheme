@@ -1,0 +1,69 @@
+{
+	"mVersionDependency": {
+		"Base.baseLib.sap_belize": "11.0.24",
+		"Base.baseLib": "11.0.24",
+		"Base": "11.0.24"
+	},
+	"sEntity": "Theme",
+	"sId": "ui5belizewater",
+	"sLabel": "UI5 Belize Water",
+	"sVendor": "OpenUI5",
+	"oExtends": "Base.baseLib.sap_belize",
+	"aFiles": [
+		"base",
+		"preview",
+		"css_variables",
+		"custom"
+	],
+	"aBundled": [
+		"ui5belizewater--Contrast"
+	],
+	"sTextDirections": "LTR,RTL",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC",
+	"mCssScopes": {
+		"css_variables": {
+			"sEmbeddingMethod": "APPEND",
+			"aScopes": [
+				{
+					"sLabel": "Contrast",
+					"sSelector": "sapContrast",
+					"sThemeIdSuffix": "Contrast",
+					"sThemability": "PUBLIC",
+					"aThemabilityFilter": [
+						"Color"
+					],
+					"sEmbeddedFile": "ui5belizewater--Contrast.css_variables",
+					"sEmbeddedCompareFile": "css_variables"
+				}
+			],
+			"sBaseFile": "css_variables"
+		}
+	},
+	"mData": {
+		"mThemeMasterState": {
+			"mSourceInfo": {
+				"sCreated": "2019-03-04T12:01:53.525Z",
+				"sLastModified": "2019-03-04T12:01:55.242Z",
+				"aVersionHistory": [
+					{
+						"sDate": "2019-03-04T12:01:53.525Z",
+						"mVersion": {
+							"Base": "11.0.24",
+							"UR": "10.30.7.308830.0",
+							"UI5": "1.62.0"
+						}
+					}
+				]
+			},
+			"mBuildInfo": {
+				"sLastBuilt": "2019-03-04T12:02:07.437Z",
+				"mVersion": {
+					"Base": "11.0.24",
+					"UR": "10.30.7.308830.0",
+					"UI5": "1.62.0"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"mVersionDependency": {
+		"Base.baseLib.sap_belize_plus": "11.0.24",
+		"Base.baseLib": "11.0.24",
+		"Base": "11.0.24"
+	},
+	"sEntity": "Theme",
+	"sId": "ui5belizewater--Contrast",
+	"sVendor": "OpenUI5",
+	"oExtends": "Base.baseLib.sap_belize_plus",
+	"aFiles": [
+		"base",
+		"preview",
+		"css_variables",
+		"custom"
+	],
+	"aBundled": [
+		"ui5belizewater"
+	],
+	"sBuildOptions": "SKIP",
+	"sType": "ABSTRACT",
+	"sThemability": "PRIVATE",
+	"mData": {
+		"mThemeMasterState": {
+			"mSourceInfo": {
+				"sCreated": "2019-03-04T12:01:53.525Z",
+				"sLastModified": "2019-03-04T12:01:55.242Z",
+				"aVersionHistory": [
+					{
+						"sDate": "2019-03-04T12:01:55.242Z",
+						"mVersion": {
+							"Base": "11.0.24",
+							"UR": "10.30.7.308830.0",
+							"UI5": "1.62.0"
+						}
+					},
+					{
+						"sDate": "2019-03-04T12:01:53.525Z",
+						"mVersion": {
+							"Base": "11.0.24",
+							"UI5": "1.62.0"
+						}
+					}
+				]
+			}
+		}
+	}
+}

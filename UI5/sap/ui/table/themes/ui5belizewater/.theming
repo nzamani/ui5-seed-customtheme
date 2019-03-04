@@ -1,0 +1,38 @@
+{
+	"mVersionDependency": {
+		"UI5.sap/ui/table.sap_belize": "1.62.1",
+		"UI5.sap/ui/table": "1.62.1",
+		"UI5": "1.62.0"
+	},
+	"sEntity": "Theme",
+	"sId": "ui5belizewater",
+	"sLabel": "UI5 Belize Water",
+	"sVendor": "OpenUI5",
+	"oExtends": "UI5.sap/ui/table.sap_belize",
+	"aBundled": [
+		"ui5belizewater--Contrast"
+	],
+	"sTextDirections": "LTR,RTL",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC",
+	"mCssScopes": {
+		"library": {
+			"sEmbeddingMethod": "APPEND",
+			"aScopes": [
+				{
+					"sLabel": "Contrast",
+					"sSelector": "sapContrast",
+					"sThemeIdSuffix": "Contrast",
+					"sThemability": "PUBLIC",
+					"aThemabilityFilter": [
+						"Color"
+					],
+					"rExcludeSelector": "\\.sapContrastPlus\\W",
+					"sEmbeddedFile": "ui5belizewater--Contrast.library",
+					"sEmbeddedCompareFile": "library"
+				}
+			],
+			"sBaseFile": "library"
+		}
+	}
+}

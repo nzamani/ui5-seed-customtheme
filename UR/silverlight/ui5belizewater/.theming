@@ -1,0 +1,32 @@
+{
+	"mVersionDependency": {
+		"UR.silverlight.sap_belize": "10.30.7.308830.0",
+		"UR.silverlight": "10.30.7.308830.0",
+		"UR": "10.30.7.308830.0"
+	},
+	"sEntity": "Theme",
+	"sId": "ui5belizewater",
+	"sLabel": "UI5 Belize Water",
+	"sVendor": "OpenUI5",
+	"oExtends": "UR.silverlight.sap_belize",
+	"aBuildFiles": [
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_legacy"
+	],
+	"aFiles": [
+		"base",
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_legacy",
+		"custom"
+	],
+	"aBundled": [
+		"ui5belizewater--Contrast"
+	],
+	"sTextDirections": "LTR,RTL",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC"
+}

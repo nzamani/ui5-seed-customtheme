@@ -1,2 +1,2 @@
 # ui5-seed-customtheme
-Custom UI5 Theme created with Theme Designer
+Demo Custom Theme created with Theme Designer

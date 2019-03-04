@@ -1,0 +1,19 @@
+{
+  "name": "ui5-seed-customtheme",
+  "version": "1.62.0",
+  "description": "UI5 Custom Theme created with Theme Designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzamani/ui5-seed-customtheme.git"
+  },
+  "author": "Nabi Zamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzamani/ui5-seed-customtheme/issues"
+  },
+  "homepage": "https://github.com/nzamani/ui5-seed-customtheme#readme"
+}

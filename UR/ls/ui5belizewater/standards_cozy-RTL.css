@@ -2,10 +2,10 @@
 * Copyright (c) 2012-2018 SAP SE, All Rights Reserved
 *
 * Theming Engine 1.39.0
-* data:{"Path": "UR.ls.ui5belizewater.standards_cozy", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_belize","sap_bluecrystal","sap_goldreflection","baseTheme"], "Tags": ["Fiori_2"], "Version": { "Build":"10.30.7.308830.20190304130155", "Source": "10.30.7.308830.0", "Required":"10.30.5", "Engine": "1.39.0"}}
+* data:{"Path": "UR.ls.ui5belizewater.standards_cozy", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_belize","sap_bluecrystal","sap_goldreflection","baseTheme"], "Tags": ["Fiori_2"], "Version": { "Build":"10.30.7.308830.20190304124834", "Source": "10.30.7.308830.0", "Required":"10.30.5", "Engine": "1.39.0"}}
 */
 
-.sapThemeMetaData-UR-ls{background-image: url('data:text/plain;utf-8,{"Path": "UR.ls.ui5belizewater.standards_cozy", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_belize","sap_bluecrystal","sap_goldreflection","baseTheme"], "Tags": ["Fiori_2"], "Version": { "Build":"10.30.7.308830.20190304130155", "Source": "10.30.7.308830.0", "Required":"10.30.5", "Engine": "1.39.0"}}');}
+.sapThemeMetaData-UR-ls{background-image: url('data:text/plain;utf-8,{"Path": "UR.ls.ui5belizewater.standards_cozy", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "Extends": ["sap_belize","sap_bluecrystal","sap_goldreflection","baseTheme"], "Tags": ["Fiori_2"], "Version": { "Build":"10.30.7.308830.20190304124834", "Source": "10.30.7.308830.0", "Required":"10.30.5", "Engine": "1.39.0"}}');}
 
 /*Base.baseLib.baseTheme.base*/.sapSvgLibs{background-image:none,url('../../../Base/baseLib/sap_belize/svg-RTL/libs/SAPGUI-icons.svg'),url('../../../Base/baseLib/sap_belize/svg-RTL/libs/SAPWeb-icons.svg')}.sapSvgLibsDataUri{background-image:url("data:text/plain;utf-8,none,url('../../../Base/baseLib/sap_belize/svg-RTL/libs/SAPGUI-icons.svg'),url('../../../Base/baseLib/sap_belize/svg-RTL/libs/SAPWeb-icons.svg')")}.sapSvgIconPositive{fill:#2b7c2b!important}.sapSvgIconCritical{fill:#e78c07!important}.sapSvgIconNegative{fill:#bb0000!important}
 /*UR.baseLib.baseTheme.base*/

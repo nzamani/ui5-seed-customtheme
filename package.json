@@ -1,8 +1,7 @@
 {
   "name": "ui5-seed-customtheme",
-  "version": "1.62.0",
+  "version": "1.63.0",
   "description": "UI5 Custom Theme created with Theme Designer",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

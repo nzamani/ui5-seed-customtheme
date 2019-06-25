@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UI5.sap/ui/unified.sap_belize_plus": "1.66.1",
-		"UI5.sap/ui/unified": "1.66.1",
-		"UI5": "1.66.1"
+		"UI5.sap/ui/unified.sap_belize_plus": "1.67.1",
+		"UI5.sap/ui/unified": "1.67.1",
+		"UI5": "1.67.0"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater--Contrast",

@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UI5.sap/gantt.sap_belize": "1.66.0",
-		"UI5.sap/gantt": "1.66.0",
-		"UI5": "1.66.1"
+		"UI5.sap/gantt.sap_belize": "1.67.0",
+		"UI5.sap/gantt": "1.67.0",
+		"UI5": "1.67.0"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater",

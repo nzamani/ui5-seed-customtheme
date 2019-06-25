@@ -24,14 +24,14 @@
 		"mThemeMasterState": {
 			"mSourceInfo": {
 				"sCreated": "2019-03-04T11:47:45.020Z",
-				"sLastModified": "2019-06-25T16:16:12.641Z",
+				"sLastModified": "2019-06-25T16:19:30.229Z",
 				"aVersionHistory": [
 					{
-						"sDate": "2019-06-25T16:16:05.325Z",
+						"sDate": "2019-06-25T16:19:28.330Z",
 						"mVersion": {
 							"Base": "11.1.4",
 							"UR": "10.30.7.314563.0",
-							"UI5": "1.66.1"
+							"UI5": "1.67.0"
 						}
 					},
 					{

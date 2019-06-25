@@ -10,6 +10,8 @@
 		"_sap_f_ShellBar_PaddingPhone": "1",
 		"_sap_f_ShellBar_ChildMargin": "4",
 		"_sap_f_ShellBar_CoPilotWidth": "48",
+		"_sap_f_ShellBar_PrimaryTitle_FontSize": ".875rem",
+		"_sap_f_ShellBar_SecondTitle_FontSize": ".75rem",
 		"_sap_f_Avatar_Color": "#fff",
 		"_sap_f_FlexibleColumnLayout_ButtonBackground": "#e4ecf5",
 		"_sap_f_FlexibleColumnLayout_ButtonHoverBackground": "#d1e0ee"

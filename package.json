@@ -1,6 +1,6 @@
 {
   "name": "ui5-seed-customtheme",
-  "version": "1.65.2",
+  "version": "1.65.3",
   "description": "UI5 Custom Theme created with Theme Designer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

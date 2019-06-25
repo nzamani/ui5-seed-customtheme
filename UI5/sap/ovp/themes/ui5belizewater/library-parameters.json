@@ -1,10 +1,10 @@
 {
 	"default": {
-		"lines-to-show": "3",
-		"lines-to-show-in-title": "2",
-		"lines-to-show-in-table": "2",
-		"lines-to-show-in-title-counter-header": "3",
-		"height-of-lines-to-show-in-titleIE": "2.4em"
+		"_sap_ovp_Card_lines-to-show": "3",
+		"_sap_ovp_Card_lines-to-show-in-title": "2",
+		"_sap_ovp_Card_lines-to-show-in-table": "2",
+		"_sap_ovp_Card_lines-to-show-in-title-counter-header": "3",
+		"_sap_ovp_Card_height-of-lines-to-show-in-titleIE": "2.4em"
 	},
 	"scopes": {
 		"sapContrast": {}

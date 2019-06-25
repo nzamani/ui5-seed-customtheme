@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UR.flash.sap_belize": "10.30.7.313824.0",
-		"UR.flash": "10.30.7.313824.0",
-		"UR": "10.30.7.313824.0"
+		"UR.flash.sap_belize": "10.30.7.314563.0",
+		"UR.flash": "10.30.7.314563.0",
+		"UR": "10.30.7.314563.0"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater",

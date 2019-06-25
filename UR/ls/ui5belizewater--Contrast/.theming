@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UR.ls.sap_belize_plus": "10.30.7.313824.0",
-		"UR.ls": "10.30.7.313824.0",
-		"UR": "10.30.7.313824.0"
+		"UR.ls.sap_belize_plus": "10.30.7.314563.0",
+		"UR.ls": "10.30.7.314563.0",
+		"UR": "10.30.7.314563.0"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater--Contrast",

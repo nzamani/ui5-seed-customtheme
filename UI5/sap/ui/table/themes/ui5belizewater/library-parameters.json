@@ -24,6 +24,9 @@
 		"_sap_ui_table_RowActionColumnSmallWidth": "calc(calc(2rem - .375rem) + 2 * .25rem + 2 * .0625rem)",
 		"_sap_ui_table_RowActionColumnSmallWidthCozy": "calc(calc(3rem - .5rem) + 2 * .25rem + 2 * .0625rem)",
 		"_sap_ui_table_RowActionColumnSmallWidthCondensed": "calc(calc(1.5rem - .125rem) + 2 * .25rem + 2 * .0625rem)",
+		"_sap_ui_table_RowActionNavigationIcon": "navigation-right-arrow",
+		"_sap_ui_table_DeleteIcon": "sys-cancel",
+		"_sap_ui_table_ResetIcon": "undo",
 		"_sap_ui_table_FocusOutlineWidth": "1px",
 		"_sap_ui_table_RowHeight_ForIECalc": "( 2rem + .0625rem )",
 		"_sap_ui_table_RowHeightCozy_ForIECalc": "( 3rem + .0625rem )",
@@ -60,6 +63,8 @@
 		"_sap_ui_table_Grouping_GroupOutlineWidth": "1px",
 		"_sap_ui_table_Grouping_GroupIconBorderWidth": ".0625rem",
 		"_sap_ui_table_Grouping_GroupIconFontSize": "0.875rem",
+		"_sap_ui_table_Grouping_TreeIconFontSize": "0.75rem",
+		"_sap_ui_table_Grouping_TreeIconFontSizeCozy": "1rem",
 		"_sap_ui_table_Grouping_GroupIconHeight_ForIECalc": "( 2rem + .0625rem )",
 		"_sap_ui_table_Grouping_GroupIconHeightCozy_ForIECalc": "( 3rem + .0625rem )",
 		"_sap_ui_table_Grouping_GroupIconHeightCondensed_ForIECalc": "( 1.5rem + .0625rem )"

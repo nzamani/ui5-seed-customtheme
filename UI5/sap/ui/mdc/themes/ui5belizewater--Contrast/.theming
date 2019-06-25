@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UI5.sap/ui/mdc.sap_belize_plus": "1.63.0",
-		"UI5.sap/ui/mdc": "1.63.0",
-		"UI5": "1.63.0"
+		"UI5.sap/ui/mdc.sap_belize_plus": "1.65.1",
+		"UI5.sap/ui/mdc": "1.65.1",
+		"UI5": "1.65.1"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater--Contrast",
@@ -13,5 +13,6 @@
 	],
 	"sBuildOptions": "SKIP",
 	"sType": "ABSTRACT",
-	"sThemability": "PRIVATE"
+	"sThemability": "PRIVATE",
+	"sReleaseStage": "GENERAL_AVAILABILITY"
 }

@@ -1,5 +1,6 @@
 {
 	"default": {
+		"sapUiShellHoverToggleBackground": "#0F5D94",
 		"sapUshellOnePixel": "1px",
 		"sapUshellTwoPixels": "0.125rem",
 		"query-4k": "screen and (min-width : 3600px)",
@@ -224,7 +225,6 @@
 		"sapUshellPopupOpenButtonHoverColor": "rgba(18,86,135,0.15)",
 		"sapUshellCatalogMenuBarBackground": "transparent",
 		"sapUshellCatalogMenuBarBoxShadow": "none",
-		"sapUshellFiori2loadingDialogBackgroundColorBelize": "rgba(255,255,255,0.8)",
 		"loadingDialogBackgroundColor": "#cad8e6",
 		"sapUshellImageBorder": "rgba(18,86,135,0.15)",
 		"sapUshellRecentActivitiesLine": "rgba(18,86,135,0.4)",
@@ -270,7 +270,6 @@
 			"sapUshellOverflowArrowsHoverColor": "#cae4fb",
 			"sapUshellAnchorBarLine": "rgba(255,255,255,0.1)",
 			"sapUshellPopupOpenButtonHoverColor": "rgba(239,244,249,0.15)",
-			"sapUshellFiori2loadingDialogBackgroundColorBelize": "rgba(63,81,97,0.8)",
 			"loadingDialogBackgroundColor": "#6585a3",
 			"sapUshellImageBorder": "rgba(255,255,255,0.15)",
 			"sapUshellRecentActivitiesLine": "rgba(202,228,251,0.4)",

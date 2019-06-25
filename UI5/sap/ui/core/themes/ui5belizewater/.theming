@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UI5.sap/ui/core.sap_belize": "1.63.0",
-		"UI5.sap/ui/core": "1.63.0",
-		"UI5": "1.63.0"
+		"UI5.sap/ui/core.sap_belize": "1.65.1",
+		"UI5.sap/ui/core": "1.65.1",
+		"UI5": "1.65.1"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater",
@@ -43,5 +43,6 @@
 			],
 			"sBaseFile": "library"
 		}
-	}
+	},
+	"sReleaseStage": "GENERAL_AVAILABILITY"
 }

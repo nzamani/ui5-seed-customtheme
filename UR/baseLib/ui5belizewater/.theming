@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"UR.baseLib.sap_belize": "10.30.7.308830.0",
-		"UR.baseLib": "10.30.7.308830.0",
-		"UR": "10.30.7.308830.0"
+		"UR.baseLib.sap_belize": "10.30.7.313824.0",
+		"UR.baseLib": "10.30.7.313824.0",
+		"UR": "10.30.7.313824.0"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater",
@@ -27,5 +27,6 @@
 	],
 	"sTextDirections": "LTR,RTL",
 	"sType": "STANDARD",
-	"sThemability": "PUBLIC"
+	"sThemability": "PUBLIC",
+	"sReleaseStage": "GENERAL_AVAILABILITY"
 }

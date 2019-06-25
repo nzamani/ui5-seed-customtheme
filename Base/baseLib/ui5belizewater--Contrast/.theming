@@ -1,8 +1,8 @@
 {
 	"mVersionDependency": {
-		"Base.baseLib.sap_belize_plus": "11.0.24",
-		"Base.baseLib": "11.0.24",
-		"Base": "11.0.24"
+		"Base.baseLib.sap_belize_plus": "11.1.4",
+		"Base.baseLib": "11.1.4",
+		"Base": "11.1.4"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater--Contrast",
@@ -24,8 +24,16 @@
 		"mThemeMasterState": {
 			"mSourceInfo": {
 				"sCreated": "2019-03-04T11:47:45.020Z",
-				"sLastModified": "2019-03-04T11:48:34.119Z",
+				"sLastModified": "2019-06-25T10:46:45.012Z",
 				"aVersionHistory": [
+					{
+						"sDate": "2019-06-25T10:46:41.742Z",
+						"mVersion": {
+							"Base": "11.1.4",
+							"UR": "10.30.7.313824.0",
+							"UI5": "1.65.1"
+						}
+					},
 					{
 						"sDate": "2019-03-04T11:48:34.119Z",
 						"mVersion": {
@@ -44,5 +52,6 @@
 				]
 			}
 		}
-	}
+	},
+	"sReleaseStage": "GENERAL_AVAILABILITY"
 }

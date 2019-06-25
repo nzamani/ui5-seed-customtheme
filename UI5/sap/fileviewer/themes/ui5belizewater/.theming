@@ -2,7 +2,7 @@
 	"mVersionDependency": {
 		"UI5.sap/fileviewer.sap_belize": "1.65.0",
 		"UI5.sap/fileviewer": "1.65.0",
-		"UI5": "1.65.1"
+		"UI5": "1.65.2"
 	},
 	"sEntity": "Theme",
 	"sId": "ui5belizewater",

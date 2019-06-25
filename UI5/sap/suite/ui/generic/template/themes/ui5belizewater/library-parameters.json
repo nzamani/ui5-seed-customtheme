@@ -39,7 +39,7 @@
 		"_sap_suite_ui_generic_template_ALPConstants_PageHeadingPadding": "0.5rem 2.75rem 0.5rem 1.8rem",
 		"_sap_suite_ui_generic_template_ALPConstants_PageContentPadding": "1rem 2rem 1rem 2rem",
 		"_sap_suite_ui_generic_template_ALPConstants_ZeroPadding": "0 0 0 0",
-		"_sap_suite_ui_generic_template_ALPConstants_PageChartMinHeight": "10rem"
+		"_sap_suite_ui_generic_template_ALPConstants_PageChartMinHeight": "15rem"
 	},
 	"scopes": {
 		"sapContrast": {}

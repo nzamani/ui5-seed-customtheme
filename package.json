@@ -7,12 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nzamani/ui5-seed-customtheme.git"
+    "url": "git+http://gerrit:9090/a/ui5/ui5-seed-customtheme.git"
   },
   "author": "Nabi Zamani",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nzamani/ui5-seed-customtheme/issues"
-  },
   "homepage": "https://github.com/nzamani/ui5-seed-customtheme#readme"
 }
